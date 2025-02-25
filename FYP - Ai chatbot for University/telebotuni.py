@@ -15,7 +15,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 bot = telebot.TeleBot("6999833753:AAEyIzvV8QgYFSBtyHYOykJzSiyZbBxB18A", parse_mode=None)
-genai.configure(api_key="AIzaSyBes3li0Cuio1D13TVEbcfxhdFZwiYbo58")
+genai.configure(api_key="INSERT_GOOGLE_API_KEY_HERE")
 
 # Create the model
 generation_config = {
