@@ -33,7 +33,7 @@ env\Scripts\activate  # Activate on Windows
 pip install -r requirements.txt
 ```
 
-## 🔑 Setup API Keys & Database
+## 🔑 Setup API Keys & Database **pm me for key**
 1. **Telegram Bot Token:** Update your bot token in the script:
 ```python
 bot = telebot.TeleBot("YOUR_TELEGRAM_BOT_TOKEN", parse_mode=None)
