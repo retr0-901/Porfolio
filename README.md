@@ -16,14 +16,10 @@ Welcome to my GitHub! I'm passionate about technology, automation, and problem-s
 - **Other Tools:** Adobe XD, Recombee (AI automation), Dropbox  
 
 ## 📌 What You'll Find Here  
-- 🔎 **Web Scraping Projects** – Extracting and analyzing data from various sources  
+- 🔎 **Bird identification using CNN** – Detecting birds in malaysia using EfficentNetModel and Resnet50  
 - 🛠️ **Automation Scripts** – Making workflows more efficient  
-- 🧪 **Software Testing** – Manual and automated testing for better quality assurance  
+- 🧪 **Website in Raw** – Website that i developed in HTML,Java and Javascript.  
 - 🤖 **AI & Machine Learning Experiments** – Exploring the potential of AI  
 
-## 📫 Let's Connect!  
-- 💼 [LinkedIn](#)  
-- 📧 Email: [Your Email]  
-- 🌍 [Personal Website](#) *(if applicable)*  
 
 Feel free to check out my projects and reach out if you'd like to collaborate or discuss tech! 🚀  
