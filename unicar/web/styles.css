@@ -1,0 +1,96 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 6, 2023, 4:07:55 PM
+    Author     : AHsya
+*/
+body {
+    text-align: center;
+    
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+  
+  }
+  
+  form {
+    padding: 10px;
+  }
+  
+  input {
+    width: 100%;
+  }
+
+  button {
+    background-color: #DC143C;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+  
+.navbar {
+  width: 100%;
+  background-color: #e32526;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #fcfbfb;
+}
+
+.active {
+  background-color: #f5faf8;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+
+.navIcons {
+  height: 30px;
+  width: 45px;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+.container{
+    width: 500px;
+    height: 350px;
+    margin: auto;
+    padding-bottom: 20px;
+    border: red;
+    text-align: center;
+}
