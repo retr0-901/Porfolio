@@ -70,9 +70,5 @@ python telebotuni.py
 - `/update <key> <value>` - Update existing data
 - `/view_users` - Retrieve the list of all registered users
 
-## 📬 Contact
-For any questions or contributions:
-- **GitHub:** [yourgithubprofile](https://github.com/yourusername)
-- **Email:** your_email@example.com
 
 🚀 Improve university management with AI-powered automation! 🤖🎓
